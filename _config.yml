@@ -4,3 +4,5 @@ author:
   name: Mr. Clevenger
   email: "kclevenger@bssd.net"
 remote_theme: jekyll-theme-slate
+
+theme: jekyll-theme-midnight
