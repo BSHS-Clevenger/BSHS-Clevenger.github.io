@@ -1,5 +1,3 @@
-### Mr. Clevenger's Website  
-
 ---
 title: "Course Pages"
 --- 
