@@ -8,4 +8,6 @@ header_pages:
   - ap-cs-a.md
   - cse.md
   - cyber.md
-theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
+minima:
+  skin: dark
