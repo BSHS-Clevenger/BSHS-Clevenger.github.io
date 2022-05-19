@@ -3,6 +3,9 @@ description: Information and Repositories for Mr. Clevenger's classes at Blue Sp
 author:
   name: Mr. Clevenger
   email: "kclevenger@bssd.net"
-remote_theme: jekyll-theme-slate
-
+header_pages:
+  - ap-csp.md
+  - ap-cs-a.md
+  - cse.md
+  - cyber.md
 theme: jekyll-theme-midnight
