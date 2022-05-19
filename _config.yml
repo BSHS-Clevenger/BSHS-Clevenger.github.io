@@ -3,12 +3,11 @@ description: Information and Repositories for Mr. Clevenger's classes at Blue Sp
 author:
   name: Mr. Clevenger
   email: "kclevenger@bssd.net"
+  social:
+    github: kclevenger84
 header_pages:
   - ap-csp.md
   - ap-cs-a.md
   - cse.md
   - cyber.md
-social-network-links:
-  email: "kclevenger@bssd.net"
-  github: kclevenger84
 remote_theme: ys1998/academic-portfolio
