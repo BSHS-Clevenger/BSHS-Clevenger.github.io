@@ -8,4 +8,7 @@ header_pages:
   - ap-cs-a.md
   - cse.md
   - cyber.md
+social-network-links:
+  email: "kclevenger@bssd.net"
+  github: kclevenger84
 remote_theme: ys1998/academic-portfolio
