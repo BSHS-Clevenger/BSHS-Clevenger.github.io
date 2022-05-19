@@ -10,4 +10,4 @@ header_pages:
   - cyber.md
 remote_theme: jekyll/minima
 minima:
-  skin: solarized-dark
+  skin: solarized
