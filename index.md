@@ -1,6 +1,8 @@
 ### Mr. Clevenger's Website  
 
-#### Course Pages
+---
+title: "Course Pages"
+--- 
 Section comming soon
 
 #### Summer Assignments  
